@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis
+# Data Exploration in SQL
